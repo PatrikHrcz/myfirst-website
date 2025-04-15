@@ -1,0 +1,31 @@
+body {  
+    background-color: black;
+
+}
+
+.hero {
+    min-height: 40vh;
+    width: 60%;
+    background-color: 000;
+    background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF6ZXppMmsxa2VqeHE2dm5oajVhbjl5MWJ4MDZwcHFhOGVoazRmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGhhYvQdd3bs8djAFr/giphy.gif) ;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    color: #fff;
+    padding:0   8% ;
+}
+    
+
+
+h1 {
+    font-size: 300%;
+    color: cadetblue;
+    width: 60%
+}
+
+
+h2 {
+    font-size: 170%;
+    color: cadetblue;
+    width: 60%
+}

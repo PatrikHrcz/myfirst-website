@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+h1 {
+    font-size: 300%;
+    color:gold;
+}
+h2 {
+    font-size: 250%;
+    color:gold;
+}
+
+p {
+    font-size: 250%;
+    width: 60%;;
+    color: coral;
+
+}
+
+table{
+    
+        font-family: Arial;
+        border-collapse:separate;
+        width: 50%;
+        color: rgb(255, 140, 0);
+}
+
+td, th {  
+    border: 1px solid #e90a0a;
+    font-size: 150%;
+   background-color: aqua;
+}
